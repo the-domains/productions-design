@@ -6,9 +6,11 @@ color:
   saturation: 0.20478956820443273
   rhythmicContrast: 0.5863443654961884
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Productions Design
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a5dd59-dc5a-4136-ba41-e8ba38484b3d.png
